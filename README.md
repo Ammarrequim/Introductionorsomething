@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Hi,I'm Amar im 13 yo who tryin to make website and some other stuff to become the "cool kid"</h1>
-<p>Im from Thailand</p>
-<p>My home: 129.42.53</p>
+<h1 style="text-align: center;">Hello chat, my name's Ammar</h1>
+ 
+<p>My home: <a>https://maps.app.goo.gl/NxMiTRM8N81TZwkg7</a></p>
 <p>:D</p>
